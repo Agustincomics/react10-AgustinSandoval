@@ -9,6 +9,7 @@ Actividades para practicar ***React***
 - HTML **V5**
 - [React](https://es.react.dev/) 
 - [React-Bootstrap](https://react-bootstrap.github.io/) 
+- [Ayudas de ChatGPT](https://chat.openai.com/) 
 
 ## Requisitos ✅
 
